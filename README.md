@@ -1,1 +1,3 @@
-# cristian
+# cristian ayala claros
+# edad 21
+# ing sistemas
